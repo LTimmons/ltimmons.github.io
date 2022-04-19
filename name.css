@@ -94,7 +94,7 @@
   -webkit-animation: shine 5s linear infinite;
           animation: shine 5s linear infinite;
   -webkit-background-clip: text;
-  background-image: linear-gradient(90deg, rgba(147,112,219,1) 0%, rgba(143,188,143,1) 100%);
+  background-image: linear-gradient(90deg, rgba(147,112,219,1) 0%, rgba(116,176,116,1) 25%, rgba(147,112,219,1) 50%, rgba(116,176,116,1) 75%, rgba(147,112,219,1) 100%);
 }
 
 .message-2CShn3[data-user-id="534458461933666315"] > :not(.repliedMessage-3Z6XBG) .username-h_Y3Us,
