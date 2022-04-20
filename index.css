@@ -5,6 +5,8 @@ header {
   background: url(/stuff/background.jpg);
 }
 
+.circular--square { border-radius: 50%; }
+
 header > div {
   display: flex;
   width: 100%;
