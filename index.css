@@ -2,17 +2,9 @@ header {
   position: relative;
   height: 100vh;
   min-height: 850px;
-}
-.container {
-    height: 50px;
-    width: 50%;
+  background: url(/stuff/background.jpg);
 }
 
-.container_img {
-    height: 100%;
-    width: 100%;
-    object-fit: contain;
-} 
 header > div {
   display: flex;
   width: 100%;
