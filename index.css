@@ -1,8 +1,9 @@
 header {
   position: relative;
-  height: 1000000vh;
+  height: 100vh;
   min-height: 850px;
   background: url(/stuff/background.jpg);
+  background-size: cover;
 }
 
 header > div {
