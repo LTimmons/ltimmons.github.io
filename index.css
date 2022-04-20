@@ -1,15 +1,24 @@
-body {background-color: LightPink;}
 header {
   position: relative;
   height: 100vh;
   min-height: 850px;
+}
+.container {
+    height: 50px;
+    width: 50%;
+}
 
+.container_img {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+} 
 header > div {
   display: flex;
   width: 100%;
   height: 100%;
   justify-content: center;
-
+  background: linear-gradient(transparent 0%, transparent 70%, var(--background-tertiary) 100%);
 }
 header > div #popout {
   position: absolute;
