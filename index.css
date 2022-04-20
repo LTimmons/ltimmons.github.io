@@ -74,6 +74,7 @@ header > div #popout .popout-body {
   margin: 0 20px;
 }
 header > div #popout .popout-body .avatar {
+  border-radius: 30px;
   position: absolute;
   top: -60px;
   left: 0;
