@@ -6,7 +6,7 @@ header {
 }
 
 img.circular--square {
-    #border-rad#ius: 50%;
+    border-radius: 20%;
 }
 
 header > div {
